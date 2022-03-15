@@ -18,12 +18,11 @@ For more details about LDBC's structure, refer to our [byelaws](https://ldbcounc
 LDBC offers memberships for individuals (free for associate members) and for organizations. For details, refer to our [becoming a member page](https://ldbcouncil.org/becoming-a-member/).
 The membership agreement includes a contributor license agreement (CLA).
 
-## Contributing
+## License
 
-Non-member contributors need to sign a separate contributor license agreement (CLA):
+Our license is based on the Apache Software License v2. See [`LICENSE.txt`](LICENSE.txt) and [`NOTICE.txt`](NOTICE.txt).
 
-* [individual CLA](https://ldbcouncil.org/docs/LDBC.Individual.Contributor.License.Agreement.Form-2020-10-23.pdf)
-* [organizational CLA](https://ldbcouncil.org/docs/LDBC.Organization.Contributor.License.Agreement.Form-2020-10-23.pdf)
+For our data set license, see [`ldbc-data-set-license.txt`](ldbc-data-set-license.txt).
 
 ## Code of Conduct
 
