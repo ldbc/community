@@ -31,6 +31,6 @@ See [our code of conduct](code_of_conduct.md).
 
 ## Community channels
 
-For communication, we use mailing lists, Basecamp, and Slack.
+For communication, we use [mailing lists](https://lists.ldbcouncil.org/), [Basecamp](https://3.basecamp.com/4100172/), and [Slack](https://ldbcouncil.slack.com/).
 
 For development, we use [GitHub](https://github.com/ldbc) and [CircleCI](https://app.circleci.com/pipelines/github/ldbc).
